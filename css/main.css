@@ -1,5 +1,6 @@
 html {
   scroll-behavior: smooth;
+  position: absolute;
 }
 
 .navigation {
@@ -15,13 +16,10 @@ html {
 body {
   margin: 0%;
   width: 100%;
-  background: rgb(140, 203, 255);
   background: linear-gradient(
-    90deg,
     rgba(140, 203, 255, 1) 0%,
     rgba(28, 147, 245, 1) 100%
   );
-  color: white;
 }
 
 .navigation ul {
@@ -246,16 +244,17 @@ body {
   }
 
   #projects {
-    font-size: 18px;
+    font-size: 1rem;
   }
 
   #footer {
-    margin: auto;
-    width: 50%;
     font-size: 14px;
     min-width: 200px;
   }
   #top-btn {
     font-size: 14px;
+  }
+
+  #blocks {
   }
 }
