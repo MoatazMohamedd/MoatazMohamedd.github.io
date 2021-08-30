@@ -221,8 +221,8 @@ body {
 
 @media (max-width: 1105px) {
   .welcome_message {
-    min-width: fit-content;
-    max-width: fit-content;
+    width: max-content;
+    padding: 20px;
     font-size: 20px;
     margin-left: auto;
     margin-right: auto;
@@ -231,7 +231,6 @@ body {
 
   #about {
     font-size: 15px;
-    min-width: 300px;
   }
 
   #about p {
@@ -249,10 +248,10 @@ body {
   }
 
   #footer {
-    font-size: 5px;
+    font-size: 11px;
     min-width: 200px;
   }
   #top-btn {
-    font-size: 11px;
+    font-size: 13px;
   }
 }
