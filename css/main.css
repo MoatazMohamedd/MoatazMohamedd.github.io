@@ -221,7 +221,7 @@ body {
 
 @media (max-width: 1105px) {
   .welcome_message {
-    max-width: fit-content;
+    min-width: 200px;
     font-size: 10px;
   }
 }
