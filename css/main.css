@@ -244,15 +244,14 @@ body {
   }
 
   #projects h3 {
-    font-size: 1rem;
+    font-size: 2rem;
   }
 
   #footer {
-    max-width: 200px;
     font-size: 10px;
     min-width: 200px;
   }
   #top-btn {
-    font-size: 14px;
+    font-size: 11px;
   }
 }
