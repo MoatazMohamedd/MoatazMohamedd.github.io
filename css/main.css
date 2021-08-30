@@ -119,7 +119,7 @@ body {
 }
 
 .container {
-  width: 90%;
+  width: auto;
   padding: 20px;
   margin: 20px;
 
@@ -212,6 +212,7 @@ body {
   transition: 0.5s;
   font-size: 25px;
   font-weight: bold;
+  transform: translate(-70%, 0);
 }
 
 #top-btn:hover {
