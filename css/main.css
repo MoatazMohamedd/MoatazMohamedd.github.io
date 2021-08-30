@@ -219,8 +219,8 @@ body {
   background-color: #e0b965;
 }
 
-@media (max-width: 952px) {
+@media (max-width: 1105px) {
   .welcome_message {
-    transform: scale(0.5);
+    font-size: 10px;
   }
 }
