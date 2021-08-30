@@ -222,6 +222,7 @@ body {
 @media (max-width: 1105px) {
   .welcome_message {
     width: max-content;
+    overflow: hidden;
     padding: 20px;
     font-size: 20px;
     margin-left: auto;
